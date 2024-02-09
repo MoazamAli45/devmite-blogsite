@@ -1,0 +1,106 @@
+{
+  "category": "DevSecops",
+  "title": "DevSecops",
+  "href": "devsecops",
+  "blogs": [
+    {
+      "id": 1,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_4.jpg.webp",
+      "title": "Securing Your CI/CD Pipeline: Best Practices",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos velit esse fugit dolorem porro delectus, dignissimos modi sunt odit beatae quibusdam voluptatibus labore doloremque incidunt sequi ratione quam. Asperiores nulla eligendi officia in mollitia, doloribus ratione ad perferendis iure tenetur reprehenderit error quae necessitatibus...",
+      "author": "Alice Johnson",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 20, 2023",
+      "readtime": "6 min",
+      "popular": true
+    },
+    {
+      "id": 2,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_3.jpg.webp",
+      "title": "Automating Security Tests in DevOps",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos velit esse fugit dolorem porro delectus, dignissimos modi sunt odit beatae quibusdam voluptatibus labore doloremque incidunt sequi ratione quam. Asperiores nulla eligendi officia in mollitia, doloribus ratione ad perferendis iure tenetur reprehenderit error quae necessitatibus...",
+      "author": "Bob Smith",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 22, 2023",
+      "readtime": "8 min",
+      "popular": false
+    },
+    {
+      "id": 3,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_2.jpg.webp",
+      "title": "Integrating Security into DevOps Culture",
+      "content": "Fusce vulputate, justo in vehicula fermentum, odio orci malesuada purus, ut venenatis enim ex nec arcu.",
+      "author": "Charlie Davis",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 25, 2023",
+      "readtime": "5 min",
+      "popular": true
+    },
+    {
+      "id": 4,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_1.jpg.webp",
+      "title": "Container Security Best Practices",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos velit esse fugit dolorem porro delectus, dignissimos modi sunt odit beatae quibusdam voluptatibus labore doloremque incidunt sequi ratione quam. Asperiores nulla eligendi officia in mollitia, doloribus ratione ad perferendis iure tenetur reprehenderit error quae necessitatibus...",
+      "author": "Eva Miller",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 28, 2023",
+      "readtime": "7 min",
+      "popular": true
+    },
+    {
+      "id": 5,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_3.jpg.webp",
+      "title": "Securing Cloud Environments in DevOps",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos velit esse fugit dolorem porro delectus, dignissimos modi sunt odit beatae quibusdam voluptatibus labore doloremque incidunt sequi ratione quam. Asperiores nulla eligendi officia in mollitia, doloribus ratione ad perferendis iure tenetur reprehenderit error quae necessitatibus...",
+      "author": "Grace Turner",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 30, 2023",
+      "readtime": "6 min",
+      "popular": false
+    },
+    {
+      "id": 10,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_2.jpg.webp",
+      "title": "Securing Microservices in DevSecOps Pipelines",
+      "content": "Microservices architecture brings flexibility and scalability, but it also introduces security challenges. In this article, we explore best practices for securing microservices within DevSecOps pipelines.",
+      "author": "Alice Smith",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 5, 2023",
+      "readtime": "6 min",
+      "popular": true
+    },
+    {
+      "id": 11,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_1.jpg.webp",
+      "title": "Container Security Strategies for DevSecOps Teams",
+      "content": "Containers play a crucial role in modern DevSecOps practices, but ensuring their security is paramount. Dive into effective container security strategies and tools to enhance your DevSecOps workflows.",
+      "author": "Bob Miller",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 10, 2023",
+      "readtime": "8 min",
+      "popular": false
+    },
+    {
+      "id": 12,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_4.jpg.webp",
+      "title": "Automating Security Compliance in DevSecOps",
+      "content": "Maintaining compliance in a dynamic DevSecOps environment can be challenging. Learn how to automate security compliance checks and ensure your development pipelines adhere to industry standards.",
+      "author": "Charlie Brown",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 15, 2023",
+      "readtime": "7 min",
+      "popular": true
+    },
+    {
+      "id": 13,
+      "image": "https://preview.colorlib.com/theme/meranda/images/img_h_3.jpg.webp",
+      "title": "Securing Cloud-Native Applications with DevSecOps",
+      "content": "As organizations embrace cloud-native architectures, securing applications becomes a critical aspect. Explore how DevSecOps practices can effectively secure cloud-native applications in this comprehensive guide.",
+      "author": "Diana Johnson",
+      "authorImage": "https://preview.colorlib.com/theme/meranda/images/person_1.jpg.webp",
+      "date": "July 20, 2023",
+      "readtime": "9 min",
+      "popular": false
+    }
+  ]
+}
